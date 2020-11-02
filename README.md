@@ -48,10 +48,6 @@
 
 ➡️ [more videos...](https://youtube.com/okaydexter)
 
-<br/>
-
----
-
 [twitter]: https://twitter.com/techstud101
 [youtube]: https://youtube.com/okaydexter
 [instagram]: https://instagram.com/okaydexter
