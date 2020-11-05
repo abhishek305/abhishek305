@@ -57,7 +57,7 @@
 
 [twitter]: https://twitter.com/techstud101
 [youtube]: https://youtube.com/okaydexter
-[instagram]: https://instagram.com/okaydexter
-[linkedin]: https://linkedin.com/in/abhishek-ezhava
+[instagram]: https://www.instagram.com/okay__dexter/
+[linkedin]:https://www.linkedin.com/in/abhishek-ezhava-477286146/
 [reddit]:https://www.reddit.com/user/okaydexter
 [reactplaylist]: https://www.youtube.com/watch?v=kjg0ZUDjRmQ&list=PL6yy_CdpgQmWEx71ep0qF3IqlPA0Qv1S4
