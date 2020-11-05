@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek Ezhava - aka [OkayDexter][youtube] 👋
 
-## I'm a Developer, Video/Content Creator, and Educator !!
+## I'm a Developer, Video/Content Creator, and An Educator !!
 
 - 🔭 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
