@@ -48,6 +48,13 @@
 
 ➡️ [more videos...](https://youtube.com/okaydexter)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhishek305&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/techstud101
 [youtube]: https://youtube.com/okaydexter
 [instagram]: https://instagram.com/okaydexter
