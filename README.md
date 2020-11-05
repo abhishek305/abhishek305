@@ -14,6 +14,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -60,4 +62,5 @@
 [instagram]: https://www.instagram.com/okay__dexter/
 [linkedin]:https://www.linkedin.com/in/abhishek-ezhava-477286146/
 [reddit]:https://www.reddit.com/user/okaydexter
+[gmail]:https://mail.google.com/mail/u/0/?view=cm&fs=1&to=okdexter94@gmail.com&tf=1
 [reactplaylist]: https://www.youtube.com/watch?v=kjg0ZUDjRmQ&list=PL6yy_CdpgQmWEx71ep0qF3IqlPA0Qv1S4
