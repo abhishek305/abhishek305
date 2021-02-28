@@ -46,6 +46,7 @@
 - [Django & React Tutorial For Beginners #1 : Installing & Setting Up Django](https://youtu.be/6ddkEW0XqS8)
 - [Build React App With Express Backend (Proxy API Method)](https://youtu.be/UABrCCp85fo)
 - [Build An Emoji Picker Component In ReactJS](https://youtu.be/7U-5bAcXW1U)
+- [Django REST Framework : #5 Setup API Structure For E-Commerce App](https://youtu.be/ux5T8nlgHO8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/okaydexter)
