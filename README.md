@@ -30,8 +30,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/29656920/97882104-342b4080-1d49-11eb-9230-6381aa492144.png" />
 <img align="left" alt="Azure" width="26px" src="https://user-images.githubusercontent.com/29656920/97882271-72286480-1d49-11eb-9cd6-103da52d39ac.png" />
-<img align="left" alt="django" width="26px" src="https://user-images.githubusercontent.com/29656920/97883344-c122c980-1d4a-11eb-9cbe-50dcd89baa79.png" />
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/29656920/97880882-b4e93d00-1d47-11eb-9708-d4e6afeecd37.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
