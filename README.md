@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Video/Content Creator, and An Educator !!
 
-- 🔭 I’m currently learning everything 
+- 🔭 I’m currently learning frontend technologies and improving productivity using AI
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: Only three of Titanic's four funnels worked. The robust ship's four funnels were partially for show -- only three of the funnels ejected soot. The other was merely used for ventilation purposes and added a certain majestic aesthetic to the ship.
 
