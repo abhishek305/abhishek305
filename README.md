@@ -56,19 +56,6 @@ I'm a **Senior Software Engineer** at [Contentstack](https://www.contentstack.co
 - 🥇 **Above & Beyond Award (Q1 2023, Q3 2025)** for driving innovation and platform excellence.  
 - ☁️ **AWS Certified Cloud Practitioner**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek305&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek305&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
 
 ### 📈 Contribution Activity
 
