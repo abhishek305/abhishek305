@@ -14,6 +14,7 @@ I'm a **Senior Software Engineer** at [Contentstack](https://www.contentstack.co
 - ⚙️ Experienced in **SDK Architecture**, **Design Systems**, and **Event-driven Platforms** (Kafka, CloudEvents)
 - 🧩 Passionate about **Developer Experience (DX)**, **Performance Optimization**, and **Scalable UI Patterns**
 - 👨‍🏫 Mentor and contributor to **DX enablement initiatives** within engineering teams
+- 🌐 Portfolio: **[profile-site-navy-pi.vercel.app](https://profile-site-navy-pi.vercel.app/)**
 
 ---
 
@@ -105,6 +106,7 @@ Let's connect if you're working on anything related to:
 
 ### 📫 Get in Touch
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://profile-site-navy-pi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-ezhava/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek305)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/okaydexter)
